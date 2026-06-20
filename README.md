@@ -121,4 +121,11 @@ Through these projects, I gained practical experience in:
 Electrical & Electronics Engineer
 Automation Engineer | Embedded Systems Learner
 
-GitHub: https://github.com/YOUR_USERNAME
+
+
+
+
+
+
+
+
