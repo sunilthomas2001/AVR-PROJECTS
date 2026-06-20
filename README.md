@@ -118,7 +118,7 @@ Through these projects, I gained practical experience in:
 
 **Sunil**
 
-Electrical & Electronics Engineer
+Electrical & Electronics Engineer|
 Automation Engineer | Embedded Systems Learner
 
 
